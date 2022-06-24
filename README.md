@@ -1,10 +1,13 @@
 - 👋 Hi, I’m @pikino22
+  -   I like pool chilling, and broing 
 - 👀 I’m interested in ...
+  -   duchcenie  
 - 🌱 I’m currently learning ...
+  -   
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-Cool Houdini python snippets 🧙‍♂️
+**Cool Houdini python snippets** 🧙‍♂️ 
 
 ```py
 function test() {
